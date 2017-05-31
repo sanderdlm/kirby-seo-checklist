@@ -1,19 +1,23 @@
 <style>
-  .panel-seo-box h3 {
+  .seo-container h3 {
     border-bottom: solid 2px #ddd;
     padding-bottom: 10px;
     width: 30%;
     margin: 1em 0;
   }
-  .panel-seo-box h4 {
+  .seo-container h4 {
     margin: 1em 0 0.5em 0;
   }
-  .panel-seo-box ul {
+  .seo-container ul {
     list-style: none;
+  }
+  .seo-container a {
+    display: inline-block;
+    border: solid 2px #8dae28;
   }
 </style>
 
-<div class="panel-seo-box">
+<div class="seo-container">
 <!--
 	<?php echo '<pre>';
 	print_r($data);
