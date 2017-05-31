@@ -1,0 +1,25 @@
+{
+    "name": "dreadnip/kirby-seo-checklist",
+    "description": "A Kirby 2 panel widget to help with SEO checking.",
+    "type": "library",
+    "license": "GPL-2.0",
+    "keywords": ["kirby", "seo"],
+    "authors": [
+        {
+            "name": "Sander De la Marche",
+            "email": "inbox@sanderdlm.be"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/dreadnip/kirby-seo-checklist"
+    },
+    "require": {
+        "php": ">=5.5.0",
+        "masterminds/html5": "2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Seo\\": "/"
+        }
+    }
+}
