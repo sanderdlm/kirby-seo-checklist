@@ -1,7 +1,7 @@
 # kirby-seo-checklist
 A basic plugin for Kirby 2 that adds a SEO checklist panel widget
 
-![SEO checklist demo](https://puu.sh/w6RBW.png)
+![SEO checklist demo](https://raw.githubusercontent.com/dreadnip/kirby-seo-checklist/master/images/demo.png)
 
 ## Requirements
 - Kirby 2+
