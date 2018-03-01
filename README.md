@@ -23,4 +23,4 @@ Download the files and place them inside `site/plugins/seo-checklist`.
 ## License
 Kirby SEO checklist is open-sourced software licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
 
-Copyright © 2017 Me, myself and I <inbox@sanderdlm.be>
+Copyright © 2017 Me, myself and I [@dreadnip](https://twitter.com/dreadnip)
